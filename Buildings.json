@@ -1,0 +1,14 @@
+[
+
+	{
+		"name": "Dwarven Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "The Dwarves",
+		"maintenance": 0,
+		"production": 3,
+		"specialistSlots": {"Engineer": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Metal Casting"
+	},
+]
