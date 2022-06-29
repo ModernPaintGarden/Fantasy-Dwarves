@@ -1,0 +1,17 @@
+[
+{
+"name": "Dwarven Crossbow",
+		"unitType": "Archery",
+		"uniqueTo": "The Dwarves",
+		"replaces": "Crossbowman",
+		"movement": 1,
+		"strength": 19,
+		"rangedStrength": 19,
+		"cost": 200,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Combustion",
+		"attackSound": "arrow"
+		"uniques": "This Unit gains the [Armor Plating I] promotion", "This Unit gains the [Quick Study] promotion", "This Unit gains the [Home Sweet Home] promotion", "This Unit gains the [Ignore Terrain Cost] promotion"
+	},
+]
