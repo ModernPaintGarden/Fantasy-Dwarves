@@ -1,0 +1,39 @@
+[
+	{
+		"name": "The Dwarves",
+		"leaderName": "Dender Ironcoal",
+		"adjective": ["Dwarven"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Welcome Lord Ironcoal!",
+		"startIntroPart2": "Great leader of the Dwarves, masters of the mountains deep, the greatest builders and miners to ever live. Please, take us into the future once more, and bring glory to our name. ",
+		
+		"declaringWar": "You've made a mockery of our kind for too long.",
+		"attacked": "You have made an enemy of the very mountains this day.",
+		"defeated": "May our castles and tunnels outlive your tyrany.",
+		"introduction": "May our kingdoms know peace and our coffers gold.",
+		
+		"neutralHello": "Greetings friend!",
+		"neutralLetsHearIt": ["Go on.","What say you?","Yes, yes, go on then."],
+		"neutralNo": ["We'll have none of it.","Bah!","You insult us."],
+		"neutralYes": ["Very good!","Wonderful!","That'll be perfect!"],
+
+		"hateHello": "What do ya want surface dweller?",
+		"hateLetsHearIt": ["Speak up!","Make this quick.","Continue."],
+		"hateNo": ["Bugger off!","You take us for fools!?","Do you treat eveyone with such disrespect?"],
+		"hateYes": ["Fine...","Good enough.","If we must."],
+		
+		"afterPeace": "Now scram! Dont much want of you right now.",
+		"tradeRequest": "We were hoping you might be in need of a few things, all craftsmanship is of the highest quality.",
+
+		"outerColor": [135,135,135],
+		"innerColor": [99,61,30],
+		"uniqueName": "The Beating Heart of the Mountain"
+		"uniques": "[+2 Production] from [Mountain] tiles [in all cities]", "[+1 Food] from [Mountain] tiles [in all cities]", "-[10]% tile improvement construction time"
+		"cities": ["The Great Mountain","An'vil","Forgetown","Hameer","Stonehole","Ironwood","Ore Town","Blackstone","Warden",
+			"Svenvard","Hillfort","Steelrock","Canary Mountain","Coalville","Little Mountain","Stone'quarter","Free Forge","Hammer Mountain","Ironsteel",
+			"Copper Fort","Hardytown","Widewoods","Ironsand","Rotiron","Far Mountain","East Stone","West Stone","Ironknot","Mega Anvil",
+			"Titaniron","Goldtinge","Great Hill","The Mountain of the Far","Deep Hill","Coppersight"]
+	}
+]
